@@ -18,4 +18,4 @@ Bu projede React kullanılmıştır
 
 <h2>Ekran Videosu</h2>
 
-![](crud.gif)
+![](crud-react.gif)
