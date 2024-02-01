@@ -1,0 +1,103 @@
+{
+  "todos": [
+    {
+      "id": "5c2e7d13-4f48-408f-a1df-c4e52c894b55",
+      "title": "yemek",
+      "status": "Varsayılan",
+      "date": "31.01.2024"
+    },
+    {
+      "id": "3b4cbb88-24c9-4ffa-84fe-09e63d45a3b7",
+      "title": "koşu",
+      "status": "daily",
+      "date": "31.01.2024"
+    },
+    {
+      "id": "5872cffe-5f20-4b6c-940d-d476fb7be2a9",
+      "title": "ascascas",
+      "status": "Varsayılan",
+      "date": "31.01.2024"
+    },
+    {
+      "id": "e9c394d7-303c-479c-b2dd-621d2f764e63",
+      "title": "ascascsc",
+      "status": "Varsayılan",
+      "date": "31.01.2024"
+    },
+    {
+      "id": "c0a36bc9-e306-4a13-867d-d592bcc1d2b5",
+      "title": "cascscas",
+      "status": "Varsayılan",
+      "date": "31.01.2024"
+    },
+    {
+      "id": "427be127-0922-43e8-874f-479875c99c1d",
+      "title": "csacasca",
+      "status": "Varsayılan",
+      "date": "31.01.2024"
+    },
+    {
+      "id": "036878a5-2fbc-4243-9a04-d1e3852052ca",
+      "title": "cascasc",
+      "status": "Varsayılan",
+      "date": "31.01.2024"
+    },
+    {
+      "id": "7c6ee7d8-7796-4805-9fcf-c72f6effd91e",
+      "title": "qwcascas",
+      "status": "important",
+      "date": "31.01.2024"
+    },
+    {
+      "id": "13786c41-7e24-48c7-8cb5-8203e850a61a",
+      "title": "sacdsad",
+      "status": "job",
+      "date": "02.02.2024"
+    },
+    {
+      "id": "d72c7288-e9ac-4248-baae-5f2c596e0003",
+      "title": "asdasdsd",
+      "status": "daily",
+      "date": "02.02.2024"
+    },
+    {
+      "id": "e1bdfe24-1025-4cbc-b9ef-5c2b04c8948d",
+      "title": "asdasd",
+      "status": "important",
+      "date": "02.02.2024"
+    },
+    {
+      "id": "ae35edcb-9641-45de-bb65-7f80dd4d197f",
+      "title": "sadsdsd",
+      "status": "job",
+      "date": "02.02.2024"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "ali"
+    },
+    {
+      "id": "2",
+      "name": "veli"
+    }
+  ],
+  "activity": [
+    {
+      "id": "104",
+      "info": "hesap açıldı",
+      "date": "20.01.2024"
+    },
+    {
+      "id": "103",
+      "info": "hesap banlandı",
+      "date": "20.01.2024"
+    },
+    {
+      "id": "105",
+      "info": "hesap değişti",
+      "date": "20.01.2024"
+    }
+  ]
+}
