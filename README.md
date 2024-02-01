@@ -1,9 +1,21 @@
-# React + Vite
+<h1>React Crud Project</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bu proje bir React-Crud projesidir. Stillendirme için Bootsrap kullanılmıştır. React'ta kulandığım özellikler;
 
-Currently, two official plugins are available:
+- Component oluşturma Prop gönderme,
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# React-Crud-Project
+Api isteği;
+
+- Axios istekleri
+
+Hooklar;
+
+- useState, useEffect,
+
+<h2>Kullanılan Diller</h2>
+
+Bu projede React kullanılmıştır
+
+<h2>Ekran Videosu</h2>
+
+![](crud.gif)
